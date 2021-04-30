@@ -3,23 +3,24 @@
 1. Download field maps from the app store.<img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/3e969f5b03b568817d9d70752acfaf4faf133d3b.png" alt="" data-align="center">
 
 2. Sign in with ArcGIS Online.
-   <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/2117a9ba071f476a3b5efd62a2e9bc9676d89225.png" alt="" data-align="center">
+   
+   <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/2117a9ba071f476a3b5efd62a2e9bc9676d89225.png" alt="" data-align="center" width="334">
 
 3. Select your Map.
-
-   <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/23338e05521e7f9ac81f3c00c795d48d94ad87d6.png" alt="" data-align="center">
+   
+   <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/23338e05521e7f9ac81f3c00c795d48d94ad87d6.png" alt="" data-align="center" width="327">
 
 4. Once your map opens, it will look something like this:
+   
+   <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/cc3940b5c8be76f6b8fabf3b9bbd20f1db8d6059.png" alt="" data-align="center" width="332">
 
-   <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/cc3940b5c8be76f6b8fabf3b9bbd20f1db8d6059.png" alt="" data-align="center">
-
-5. Click the plus to add a new feature and select new feature to place a new structure.<img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/fd5f088fe2c7c96829059f8614fc64740b534019.png" alt="" data-align="center">
+5. Click the plus to add a new feature and select new feature to place a new structure.<img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/fd5f088fe2c7c96829059f8614fc64740b534019.png" alt="" data-align="center" width="370">
 
 6. Collection page will open assuming that you want to use your GPS location. If you woult like to manually adjust the location, pan the map so that the crosshair is at the correct location and follow the instructions on the second image<img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/62eb76118b8954e69ab8378612f4e5d55218d369.png" alt="" data-align="center">
 
 7. The attributes window for your newly created point will automatically pop up. select the Edit App Link to fill in attribution
-
-   <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/5ccd99811756bca48a7e69585830eb7e0b2e65ad.png" alt="" data-align="center">
+   
+   <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/5ccd99811756bca48a7e69585830eb7e0b2e65ad.png" alt="" data-align="center" width="343">
 
 8. This will open your browser to the survey entry for the newly created point. Go through the form and fill out all the appropriate information. Fields with a red asterisk are required. At the bottom, hit next to move to the next page<img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/7ea0d438c8c875e05fb852b8e50b94211cb208ad.png" alt="" data-align="center">
 
