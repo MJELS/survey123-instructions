@@ -4,7 +4,7 @@
 
 2. Sign in with ArcGIS Online.
    
-   <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/2117a9ba071f476a3b5efd62a2e9bc9676d89225.png" alt="" data-align="center" width="334">
+   <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/2021-05-12-10-30-10-image.png" alt="" data-align="center">
 
 3. Select your Map.
    
@@ -14,15 +14,15 @@
    
    <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/2021-05-03-14-41-38-image.png" alt="loading-ag-152" width="466" data-align="center">
 
-5. Click the plus to add a new feature and select new feature to place a new structure.
+5. Click the plus to start a collection.  Select "New Feature" to place a new structure. (See step 13 on how to place a new connection.)
    
    <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/2021-05-03-15-07-31-image.png" alt="loading-ag-192" width="486" data-align="center">
-   
-   
 
-6. Collection page will open assuming that you want to use your GPS location. If you would like to manually adjust the location, pan the map so that the crosshair is at the correct location and follow the instructions on the second image<img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/2021-05-03-14-53-27-image.png" alt="loading-ag-168" width="643" data-align="center">
+6. Collection page will open assuming that you want to use your GPS location. If you would like to manually adjust the location, pan the map so that the crosshair is at the correct location and follow the instructions on the second image
+   
+   ![](B:\GitHub_Locals\survey123-instructions\Images\2021-05-12-10-30-46-image.png)
 
-7. The attributes window for your newly created point will automatically pop up. select the Edit App Link to fill in attribution
+7. The attributes window for your newly created point will automatically pop up. Select the App Edit Link to fill in attribution
    
    <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/2021-05-03-14-43-26-image.png" alt="loading-ag-177" data-align="center" width="470">
 
@@ -37,3 +37,13 @@
     <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/2021-05-03-14-46-46-image.png" alt="loading-ag-201" data-align="center" width="526">
 
 12. Once you are finished filling in all of the information, Hit Submit<img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/fd12f4025ecff4fb88bf215841c3fc88d4597631.png" alt="" data-align="center">
+
+13. To draw in the connections between structures click the plus to start a collection.  Select the green line segment (structure_investigations_general_connections)
+    
+    ![](B:\GitHub_Locals\survey123-instructions\Images\2021-05-12-10-41-30-image.png)
+
+14. Connections that have already been drawn can be edited and updated.
+    
+    ![](B:\GitHub_Locals\survey123-instructions\Images\2021-05-12-12-58-23-image.png)
+    
+    
