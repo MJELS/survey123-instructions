@@ -4,7 +4,7 @@
 
 2. Sign in with ArcGIS Online.
    
-   <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/2021-05-12-10-30-10-image.png" alt="" data-align="center">
+   <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/2459ceff2beb65054fb46d982afddbd03669271e.png" alt="" data-align="center">
 
 3. Select your Map.
    
@@ -45,5 +45,3 @@
 14. Connections that have already been drawn can be edited and updated.
     
     ![](B:\GitHub_Locals\survey123-instructions\Images\2021-05-12-12-58-23-image.png)
-    
-    
