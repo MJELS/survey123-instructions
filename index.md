@@ -17,16 +17,12 @@
 5. Click the plus to start a collection.  Select "New Structure" to place a new structure. (See step 13 on how to place a new connection.)
    
    <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/2021-05-19-14-57-48-image.png" alt="" data-align="center" width="472">
-   
-   
 
 6. Collection page will open assuming that you want to use your GPS location. If you would like to manually adjust the location, pan the map so that the crosshair is at the correct location and follow the instructions on the second image
    
    ![](B:\GitHub_Locals\survey123-instructions\Images\2021-05-12-10-30-46-image.png)
 
-7. The attributes window for your newly created point will automatically pop up. Select the App Edit Link to fill in attribution
-   
-   <img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/2021-05-19-15-18-38-image.png" alt="" data-align="center" width="471">
+7. The attributes window for your newly created point will automatically pop up. Select "Edit Link"" to fill in attribution<img src="file:///B:/GitHub_Locals/survey123-instructions/Images/2021-06-01-12-59-45-image.png" title="" alt="" data-align="center">
 
 8. This will open your browser to the survey entry for the newly created point. Go through the form and fill out all the appropriate information. Fields with a red asterisk are required. At the bottom, hit next to move to the next page<img title="" src="file:///B:/GitHub_Locals/survey123-instructions/Images/7ea0d438c8c875e05fb852b8e50b94211cb208ad.png" alt="" data-align="center">
 
